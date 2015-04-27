@@ -1,0 +1,15 @@
+c:\users\rahulanand21\documents\visual studio 2013\Projects\Chintu OS\Chintu OS\bin\Debug\Chintu OS.dll
+c:\users\rahulanand21\documents\visual studio 2013\Projects\Chintu OS\Chintu OS\bin\Debug\Chintu OS.pdb
+c:\users\rahulanand21\documents\visual studio 2013\Projects\Chintu OS\Chintu OS\bin\Debug\Cosmos.Core.dll
+c:\users\rahulanand21\documents\visual studio 2013\Projects\Chintu OS\Chintu OS\bin\Debug\Cosmos.Debug.Kernel.dll
+c:\users\rahulanand21\documents\visual studio 2013\Projects\Chintu OS\Chintu OS\bin\Debug\Cosmos.Hardware.dll
+c:\users\rahulanand21\documents\visual studio 2013\Projects\Chintu OS\Chintu OS\bin\Debug\Cosmos.System.dll
+c:\users\rahulanand21\documents\visual studio 2013\Projects\Chintu OS\Chintu OS\bin\Debug\Cosmos.Common.Extensions.dll
+c:\users\rahulanand21\documents\visual studio 2013\Projects\Chintu OS\Chintu OS\bin\Debug\Cosmos.Core.pdb
+c:\users\rahulanand21\documents\visual studio 2013\Projects\Chintu OS\Chintu OS\bin\Debug\Cosmos.Hardware.pdb
+c:\users\rahulanand21\documents\visual studio 2013\Projects\Chintu OS\Chintu OS\bin\Debug\Cosmos.System.pdb
+c:\users\rahulanand21\documents\visual studio 2013\Projects\Chintu OS\Chintu OS\bin\Debug\Cosmos.Debug.Kernel.pdb
+c:\users\rahulanand21\documents\visual studio 2013\Projects\Chintu OS\Chintu OS\bin\Debug\Cosmos.Common.Extensions.pdb
+c:\users\rahulanand21\documents\visual studio 2013\Projects\Chintu OS\Chintu OS\obj\Debug\Chintu OS.csprojResolveAssemblyReference.cache
+c:\users\rahulanand21\documents\visual studio 2013\Projects\Chintu OS\Chintu OS\obj\Debug\Chintu OS.dll
+c:\users\rahulanand21\documents\visual studio 2013\Projects\Chintu OS\Chintu OS\obj\Debug\Chintu OS.pdb
